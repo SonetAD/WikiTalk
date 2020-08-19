@@ -53,7 +53,7 @@ This function makes sure that raw_function will work perfectly.If any unexpected
 ## Developer and License info
 This project has been created ubder the MIT license.
 
-Developer:Sonet Adhikary
-  E-mail:sonet.ad101@gmail.com
+Developer:Sonet Adhikary.(space, space)
+ E-mail:sonet.ad101@gmail.com
 
 

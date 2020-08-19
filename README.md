@@ -2,14 +2,14 @@
 
 WikiTalk is a voice search engine.I've created this for helping people quickly search and getting information in a concise way.
 
-## Features of WikiTalk:
-*It can search for current and old news bassed on user input.User can give any topic as input.
-*It is capable to search for any information on web and make a summary on that information.
-*It gives output in audio format so that user can eassily listen news & other search result.
-*While searching for news,user can specify how many news they want to listen on there given topic.
+## Features of WikiTalk
+1.It can search for current and old news bassed on user input.User can give any topic as input.
+2.It is capable to search for any information on web and make a summary on that information.
+3.It gives output in audio format so that user can eassily listen news & other search result.
+4.While searching for news,user can specify how many news they want to listen on there given topic.
 
-## Special features of WikiTalk:
-*It has been coded such way so that if somehow there will some issues(like network issue or api faillure issue),the software won't give any error.It will try again and again untill the issue will solve.When it can solve the issue,it will give the output.
+## Special feature of WikiTalk
+It has been coded such way so that if somehow there will some issues(like network issue or api faillure issue),the software won't give any error.It will try again and again untill the issue will solve.When it can solve the issue,it will give the output.
 
 ## Documentation
 Here is the documentation of WikiTalk
@@ -54,6 +54,6 @@ This function makes sure that raw_function will work perfectly.If any unexpected
 This project has been created ubder the MIT license.
 
 Developer:Sonet Adhikary
-E-mail:sonet.ad101@gmail.com
+  E-mail:sonet.ad101@gmail.com
 
 

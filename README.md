@@ -40,6 +40,8 @@ This python built in module was used to delate temporary audio files.
 #### playsound
 This module has been to play audio file 
 
+####datetime
+This builtin python module has been used to get user's current time.It will help WikiTalk to figure it out how to greet user.
 
 ### Function Documentation
 
@@ -49,6 +51,8 @@ This function takes string as input and give a audio file as output.
 #### greatings
 This function makes sure that raw_function will work perfectly.If any unexpected issue happens,this fintion will takes care of it.
 
+####wikisearch
+This function actually do all type of search including wipedia & news search.
 
 ## Developer and License info
 This project has been created ubder the MIT license.
